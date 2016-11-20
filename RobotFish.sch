@@ -2273,20 +2273,20 @@ http://www.ladyada.net/library/pcb/eaglelibrary.html</description>
 <part name="U1" library="water" deviceset="16F1575" device=""/>
 <part name="+3.3V1" library="berry" deviceset="+3.3V" device=""/>
 <part name="GND6" library="berry" deviceset="DGND" device=""/>
-<part name="R2" library="water" deviceset="R" device="0603(1608)" value="100k"/>
+<part name="R2" library="water" deviceset="R" device="0603(1608)" value="1M"/>
 <part name="GND7" library="berry" deviceset="DGND" device=""/>
 <part name="TR1" library="water" deviceset="SSM3J338R" device=""/>
 <part name="R14" library="water" deviceset="R" device="0603(1608)" value="100k"/>
 <part name="C2" library="water" deviceset="C" device="0603(1608)" value="0.1uF"/>
-<part name="R10" library="water" deviceset="R" device="0603(1608)"/>
+<part name="R10" library="water" deviceset="R" device="0603(1608)" value="4.7k"/>
 <part name="U$4" library="microbuilder" deviceset="VBAT" device=""/>
 <part name="R1" library="water" deviceset="R" device="0603(1608)" value="100k"/>
 <part name="+3.3V4" library="berry" deviceset="+3.3V" device=""/>
 <part name="GND11" library="berry" deviceset="DGND" device=""/>
 <part name="C1" library="water" deviceset="C" device="0603(1608)" value="0.1uF"/>
 <part name="D1" library="microbuilder" deviceset="DIODE-SCHOTTKY" device="SOD-123" value="MBR120"/>
-<part name="R3" library="water" deviceset="R" device="0603(1608)"/>
-<part name="R4" library="water" deviceset="R" device="0603(1608)"/>
+<part name="R3" library="water" deviceset="R" device="0603(1608)" value="4.7k"/>
+<part name="R4" library="water" deviceset="R" device="0603(1608)" value="4.7k"/>
 <part name="R6" library="water" deviceset="R" device="0603(1608)" value="1k"/>
 <part name="LED1" library="berry" deviceset="LED" device="0603"/>
 <part name="GND12" library="berry" deviceset="DGND" device=""/>
